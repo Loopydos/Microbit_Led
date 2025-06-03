@@ -1,24 +1,20 @@
+Open this page at: https://loopydos.github.io/microbit_led/
 
-> Obre aquesta pàgina a [https://loopydos.github.io/microbit_led/](https://loopydos.github.io/microbit_led/)
+Use it as an extension
+This repository can be added as an extension in MakeCode.
 
-## Utilitza-ho com a extensió
+Open https://makecode.microbit.org/
+Click on New Project
+Click on Extensions under the gear (settings) menu
+Search for https://github.com/loopydos/microbit_led and import it
+Edit this project
+To edit this repository in MakeCode:
 
-Aquest dipòsit es pot afegir com una **extensió** a MakeCode.
+Open https://makecode.microbit.org/
+Click on Import , then click on Import URL
+Paste https://github.com/loopydos/microbit_led and click Import
+Metadata (used for search, rendering)
+for PXT/microbit
 
-* obre [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* fes clic a **Projecte nou**
-* fes clic a **Extensions** sota el menú de la roda dentada
-* cercar **https://github.com/loopydos/microbit_led** i importar
-
-## Edita aquest projecte
-
-Per editar aquest repositori a MakeCode.
-
-* obre [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* fes clic a ** Importa** i després a ** Importa URL**
-* enganxa **https://github.com/loopydos/microbit_led** i clica importar
-
-#### Metadades (utilitzades per a la cerca, renderització)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<script src="https://makecode.com/gh-pages-embed.js"></script> 
+<script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
